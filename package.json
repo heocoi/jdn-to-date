@@ -1,6 +1,6 @@
 {
   "name": "jdn-to-date",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A npm package for converting Julian Day Number (JDN) to Date object.",
   "license": "MIT",
   "repository": "heocoi/jdn-to-date",
